@@ -101,13 +101,13 @@ a:hover {
 }
 
 .code-img {
-  width: 15%;
+  width: 256px;
   float: left;
   margin-right: 30px;
 }
 
 .game-img {
-  width: 15%;
+  width: 256px;
   float: right;
   margin-left: 30px;
 }
