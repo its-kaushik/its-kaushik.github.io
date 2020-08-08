@@ -1,0 +1,27 @@
+body{
+    margin: auto 0 ;
+}
+
+.nav-bar{
+    background-color: #F2F2F2;
+    
+}
+
+ul{
+    margin: auto 0;
+}
+
+.nav-menu{
+    display: flex;
+    list-style: none;
+    font-family: 'Cormorant SC', serif;
+    font-size: 2.0em;
+}
+
+li{
+    padding: 25px;
+}
+
+.men{
+    padding-left: 75px;
+}
